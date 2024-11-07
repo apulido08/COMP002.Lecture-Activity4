@@ -8,3 +8,8 @@ console.log(myNumbers[4]);
 for(let i=0; i < myNumbers.length; i++){
     console.log(`myNumber[${i}]: ${myNumber[i]}`);
 }
+
+
+
+myNumber.push(6, 7, 8, 9, 10);
+console.log(myNumber);
